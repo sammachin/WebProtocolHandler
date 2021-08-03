@@ -1,0 +1,2 @@
+# WebProtocolHandler
+Example of registerProtocolHandler 
